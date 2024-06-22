@@ -1,0 +1,14 @@
+
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-colour" transform="translate(9.000000, 9.000000) scale(-1, 1) translate(-9.000000, -9.000000) translate(-6.000000, -6.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Group" transform="translate(15.000000, 15.000000) scale(-1, 1) translate(-15.000000, -15.000000) translate(6.500000, 6.500000)">
+                <circle id="Oval" cx="7.37834716" cy="7.51545909" r="6.61979167"></circle>
+                <path d="M11.7263357,12.5138056 C11.716699,12.5248914 11.6999002,12.5260661 11.6888145,12.5164294 L15.6189198,15.9328178 C15.6078341,15.9231812 15.6066594,15.9063823 15.6162961,15.8952966 C15.6259328,15.8842109 15.6427316,15.8830362 15.6538173,15.8926729 L11.723712,12.4762844 C11.7347977,12.4859211 11.7359724,12.5027199 11.7263357,12.5138056 Z" id="Rectangle-4" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
