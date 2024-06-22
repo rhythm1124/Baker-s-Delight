@@ -176,7 +176,7 @@ body{
 }
 
 .cover-img{
-    background-image: url("cover-img-main-page.jpg");
+    background-image: url("../assets/cover-img-main-page.jpg");
     object-fit: fill;
     height: 500px;
     margin: 0px;
@@ -235,12 +235,12 @@ body{
     font-family: sans-serif;
     color: white;
 }
-#a{background-image: url("loaves-homepage-tile.jpg");}
-#b{background-image: url("snacks-homepage-tile.webp");}
-#c{background-image: url("lunch-box-homepage-tile.jpg");}
-#d{background-image: url("artisan-homepage-tile.jpg");}
-#e{background-image: url("health-homepage-tile.jpg");}
-#f{background-image: url("value-packs-homepage-tile.jpg");}
+#a{background-image: url("../assets/loaves-homepage-tile.jpg");}
+#b{background-image: url("../assets/snacks-homepage-tile.webp");}
+#c{background-image: url("../assets/lunch-box-homepage-tile.jpg");}
+#d{background-image: url("../assets/artisan-homepage-tile.jpg");}
+#e{background-image: url("../assets/health-homepage-tile.jpg");}
+#f{background-image: url("../assets/value-packs-homepage-tile.jpg");}
 
 .display-container{
     display: block;
